@@ -1,0 +1,15 @@
+/* .background{
+    display: block;
+    position: static;
+    width: 100%;
+    background-color: cadetblue;
+} */
+
+.licence{
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue;
+    margin: 1rem;
+    border-radius: 16px;
+    padding: .7rem;
+}
